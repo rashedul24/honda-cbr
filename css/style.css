@@ -1,0 +1,19 @@
+.header-bg{
+  background-color: #264653;;
+}
+.btn-bg{
+  background-color: #E76F51;
+}
+.high-lighter {
+  color: #E76F51;
+  ;
+}
+.gray-scale {
+  filter: grayscale(100%);
+}
+.fa-star{
+ color: #E77C40;
+}
+.client-name{
+  color: #23A6F0;
+}
