@@ -9,6 +9,13 @@ body{
 .header-bg{
   background-color: #264653;;
 }
+.header-info{
+  color: #E0E0E0;
+}
+.header-align{
+  margin-left: 15%;
+  margin-top: 12%;
+}
 .btn-bg{
   background-color: #E76F51;
 }
@@ -27,4 +34,11 @@ body{
 }
 .frequent-question{
   color: #383838;
+}
+ul {
+  list-style: none;
+}
+a{
+  color: gray;
+  text-decoration: none;
 }
