@@ -26,7 +26,7 @@ body{
 .gray-scale {
   filter: grayscale(100%);
 }
-.fa-star{
+.fa-star {
  color: #E77C40;
 }
 .client-name{
