@@ -1,3 +1,11 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* common styles */
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
 .header-bg{
   background-color: #264653;;
 }
@@ -16,4 +24,7 @@
 }
 .client-name{
   color: #23A6F0;
+}
+.frequent-question{
+  color: #383838;
 }
